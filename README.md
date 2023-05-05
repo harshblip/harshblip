@@ -32,7 +32,7 @@ I am an enthusiastic Indian self-taught frontend developer and competitive progr
 </h2>
 <div align = "center">
   
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshblip&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshblip&theme=radical)](https://github.com/harshblip/github-readme-stats)
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=harshblip&line_height=40&theme=dark">
 </div>
 
