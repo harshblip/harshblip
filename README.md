@@ -12,6 +12,7 @@
 I am an enthusiastic Indian self-taught frontend developer and competitive programmer. I am a motivated Indian individual with a strong passion for frontend development and competitive programming, who has achieved self-taught proficiency in both areas.
 ## **Tech Stack :**
 <!-- -->
+<div align = "flex flex-row">
 <code><img height="33" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
 	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
 	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass" /></code>
@@ -26,7 +27,7 @@ I am an enthusiastic Indian self-taught frontend developer and competitive progr
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">](https://reactjs.org/)</code>
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">](https://www.mysql.com/)</code>
 
-
+</div>
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
