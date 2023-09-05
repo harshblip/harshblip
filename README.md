@@ -9,7 +9,7 @@
 - 📫 How to reach me: @harshjipkate on Twitter
 
 ## **About Me :** 👦
-I am an enthusiastic Indian self-taught frontend developer and competitive programmer. I am a motivated Indian individual with a strong passion for frontend development and competitive programming, who has achieved self-taught proficiency in both areas.
+I am an enthusiastic Indian self-taught frontend developer and competitive programmer. I am a motivated individual with a strong passion for frontend development and competitive programming, who has achieved self-taught proficiency in both areas.
 ## **Tech Stack :**
 <!-- -->
 <div align = "flex flex-row">
