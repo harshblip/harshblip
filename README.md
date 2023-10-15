@@ -26,14 +26,6 @@ I am an enthusiastic Indian self-taught frontend developer and competitive progr
 	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" /></code>
 	<code><img height="33" src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" </code><code><img height="33" src = "https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" title="mysql" </code><code><img height="33" src = "https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase" title="firebase" </code>
 </div>
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
-<div align = "center">
-  
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshblip&theme=radical)](https://github.com/harshblip/github-readme-stats)
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=harshblip&line_height=40&theme=dark">
-</div>
 
 ## **Reach out to me :** 📫
   <p>
