@@ -1,13 +1,28 @@
 ### Hi there 👋
 
+```
+ __      __  ______  ____    ____    __  __  ____
+/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
+\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
+ \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
+  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
+   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
+    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
+
+```
+
+<br />
+
 # <div align="center"> Hi <img src = "https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"> I am Harsh Jipkate</div>
-
-- 🔭 I’m currently working on DevDojo
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on Web Dev Projects
+```
+- 🔭 I’m currently working on new projects
+- 🌱 I’m currently learning Next.js, unit testing, Node.js APIs
+- 👯 I’m looking to collaborate on Frontend/FullStack Projects
 - 💬 Ask me about Frontend developement
-- 📫 How to reach me: @harshjipkate on Twitter
-
+- 📫 How to reach me: @unplacedSIH on Twitter
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: [object Object]
+```
 ## **About Me :** 👦
 I am an enthusiastic Indian self-taught frontend developer and competitive programmer. I am a motivated individual with a strong passion for frontend development and competitive programming, who has achieved self-taught proficiency in both areas.
 ## **Tech Stack :**
