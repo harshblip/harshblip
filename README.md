@@ -1,30 +1,34 @@
 ### Hi there 👋
 ![](https://pasteboard.co/VjaFKhxmdHxD.png)
-```
- __      __  ______  ____    ____    __  __  ____
-/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
-\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
- \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
-  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
-   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
-    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
-
-```
-
-<br />
 
 # <div align="center"> Hi <img src = "https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"> I am Harsh Jipkate</div>
-```
-- 🔭 I’m currently working on new projects
-- 🌱 I’m currently learning Next.js, unit testing, Node.js APIs
-- 👯 I’m looking to collaborate on Frontend/FullStack Projects
-- 💬 Ask me about Frontend developement
-- 📫 How to reach me: @unplacedSIH on Twitter
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: [object Object]
-```
 ## **About Me :** 👦
-I am an enthusiastic Indian self-taught frontend developer and competitive programmer. I am a motivated individual with a strong passion for frontend development and competitive programming, who has achieved self-taught proficiency in both areas.
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["ReactJS", "Node.js", "Javascript", "MySQL"],
+    askMeAbout: ["web dev", "tech", "trending memes"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express", "JWT"],
+        },
+        frontEnd: {
+	    core: ["Javascript", "HTML", "C++"]	
+            frameworks: ["ReactJS", "Next.js", "RadixUI"]
+        },
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "Socket.IO", "MaterialUI", "ContextAPI"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "variable",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning Next.js, unit testing, Node.js
+- 👯 I’m looking to collaborate on FullStack/Backend Projects
+- 💬 Ask me about Fullstack developement
 ## **Tech Stack :**
 <!-- -->
 <div align = "flex flex-row">
