@@ -5,7 +5,6 @@
 ## **About Me :** 👦
 ```javascript
 const harsh = {
-    pronouns: "He" | "Him",
     code: ["ReactJS", "Node.js", "Javascript", "MySQL"],
     askMeAbout: ["web dev", "tech", "trending memes"],
     technologies: {
@@ -13,8 +12,8 @@ const harsh = {
             js: ["Node", "Express", "JWT"],
         },
         frontEnd: {
-	    core: ["Javascript", "HTML", "C++"]	
-            frameworks: ["ReactJS", "Next.js", "RadixUI"]
+	    core: ["Javascript", "HTML", "C++"],
+            frameworks: ["ReactJS", "Next.js", "RadixUI"],
         },
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "Socket.IO", "MaterialUI", "ContextAPI"]
