@@ -4,7 +4,7 @@
 # <div align="center"> Hi <img src = "https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"> I am Harsh Jipkate</div>
 ## **About Me :** 👦
 ```javascript
-const anmol = {
+const harsh = {
     pronouns: "He" | "Him",
     code: ["ReactJS", "Node.js", "Javascript", "MySQL"],
     askMeAbout: ["web dev", "tech", "trending memes"],
