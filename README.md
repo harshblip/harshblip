@@ -15,7 +15,7 @@ const harsh = {
 	    core: ["Javascript", "HTML", "C++"],
             frameworks: ["ReactJS", "Next.js", "RadixUI"],
         },
-        databases: ["mongo", "MySql"],
+        databases: ["Mongo", "MySql"],
         misc: ["Firebase", "Socket.IO", "MaterialUI", "ContextAPI"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
@@ -30,23 +30,25 @@ const harsh = {
 - 💬 Ask me about Fullstack developement
 ## **Tech Stack :**
 <!-- -->
-<div align = "flex flex-row">
-<code><img height="33" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
-	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
-	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass" /></code>
-	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS" /></code>
-	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="Material Design" title="Material Design" /></code>
-	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI" /></code>
-	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
-	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
-	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
-	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" /></code>
-	<code><img height="33" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" /></code>
-	<code><img height="33" src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" </code><code><img height="33" src = "https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" title="mysql" </code><code><img height="33" src = "https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase" title="firebase" </code>
-</div>
+`
+	![Javascript](https://img.shields.io/badge/javascript-%23F7B93E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+	![MongoDB](https://img.shields.io/badge/mongodb-%2313aa52.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+	![Express](https://img.shields.io/badge/express-%230175C2.svg?style=for-the-badge&logo=express&logoColor=white)
+  	![React](https://img.shields.io/badge/react-%2345b8d8.svg?style=for-the-badge&logo=react&logoColor=white)
+	![Node.js](https://img.shields.io/badge/node.js-%2343853d.svg?style=for-the-badge&logo=node.js&logoColor=white)
+ 	![Firebase](https://img.shields.io/badge/firebase-%23F9A03C.svg?style=for-the-badge&logo=firebase&logoColor=white)
+	![Tailwind](https://img.shields.io/badge/tailwind-%2346a2f1.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+ 	![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+  	![Jest](https://img.shields.io/badge/jest-%23ea2845.svg?style=for-the-badge&logo=jest&logoColor=white)
+   	![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+	![Progressive Web Apps](https://img.shields.io/badge/pwa-%23311C87.svg?style=for-the-badge&logo=pwa&logoColor=white)
+ 	![Styled Components](https://img.shields.io/badge/styled-components-%23db7092.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+  	![Figma](https://img.shields.io/badge/figma-%23E10098.svg?style=for-the-badge&logo=figma&logoColor=white)
+   	![Framer](https://img.shields.io/badge/framer-%23f446aa.svg?style=for-the-badge&logo=framer&logoColor=white)
 
 ## **Reach out to me :** 📫
-  <p>
-    <a target="_blank"href="https://www.linkedin.com/in/harsh-jipkate-001212227/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:harsh.jipkate2020@vitbhopal.ac.in"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+`
+	[![Linkedin Badge](https://img.shields.io/badge/-harshjipkate-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-jipkate/)](https://www.linkedin.com/in/harsh-jipkate/)
+	 [![Github Badge](https://img.shields.io/badge/-harshblip-black?style=flat&logo=github&logoColor=white&link=https://github.com/harshblip)](https://github.com/harshblip)
+  	[![Gmail Badge](https://img.shields.io/badge/-harshjipkate-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jipkateharsh@gmail.com)](mailto:jipkateharsh@gmail.com)
+   	[![Website Badge](https://img.shields.io/badge/-a.reum-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://bento.me/a-reum)](https://bento.me/a-reum)
