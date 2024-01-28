@@ -46,9 +46,6 @@ const harsh = {
   	![Figma](https://img.shields.io/badge/figma-%23E10098.svg?style=for-the-badge&logo=figma&logoColor=white)
    	![Framer](https://img.shields.io/badge/framer-%23f446aa.svg?style=for-the-badge&logo=framer&logoColor=white)
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshblip&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshblip&hide_progress=true)
-
 ## **Reach out to me :** 📫
 `
 	[![Linkedin Badge](https://img.shields.io/badge/-harshjipkate-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-jipkate/)](https://www.linkedin.com/in/harsh-jipkate/)
