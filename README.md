@@ -45,10 +45,9 @@ const harsh = {
  	![Styled Components](https://img.shields.io/badge/styled-components-%23db7092.svg?style=for-the-badge&logo=styled-components&logoColor=white)
   	![Figma](https://img.shields.io/badge/figma-%23E10098.svg?style=for-the-badge&logo=figma&logoColor=white)
    	![Framer](https://img.shields.io/badge/framer-%23f446aa.svg?style=for-the-badge&logo=framer&logoColor=white)
-<div>
+
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshblip&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshblip&hide_progress=true)
-</div>
 
 ## **Reach out to me :** 📫
 `
